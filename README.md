@@ -25,4 +25,4 @@ Os códigos estão estruturados de forma cronológica para facilitar a consulta 
 - `/Projetos`: Os sistemas e clones de plataformas reais desenvolvidos do zero.
 
 ---
-*Estudante Erick Silva | Dedicação contínua rumo ao Desenvolvimento de Software.*
+*Estudante Erick Coimbra | Dedicação contínua rumo à Infraestrutura, Redes e Segurança.*
